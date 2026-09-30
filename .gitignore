@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+credentials/*.json
+!credentials/README.md
+qualified.csv
+*.log
+.DS_Store
